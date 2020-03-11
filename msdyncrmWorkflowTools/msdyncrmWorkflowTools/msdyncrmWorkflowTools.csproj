@@ -106,6 +106,8 @@
     <Compile Include="Class\GetAppModuleID.cs" />
     <Compile Include="Class\GetRecordID.cs" />
     <Compile Include="Class\MapMultiSelectOptionSet.cs" />
+    <Compile Include="Class\GenerateSalesOrderFromOpportunity.cs" />
+    <Compile Include="Class\WinOpportunity.cs" />
     <Compile Include="Class\RetrieveUserBUDefaultTeam.cs" />
     <Compile Include="Class\SetMultiSelectOptionSet.cs" />
     <Compile Include="Class\TranslateText.cs" />
